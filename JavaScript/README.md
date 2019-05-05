@@ -1,0 +1,2 @@
+# JavaScript Studies
+### I have some experience with JS and work with this wonderfull language has some time, but i think that is important share a bit of knowledge with the comunity and let this registrered for future consultings.
